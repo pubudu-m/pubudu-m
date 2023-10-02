@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as an iOS Enginner at Circles.Life, also majoring in a Bachelors's Degree in Software Engineering at University of Westminster.
+I've been writing software since 2019, and professionally on Apple platforms since 2021. I love building robust, well-engineered, and beautiful iOS applications and coaching junior developers to achieve their best potential.
 
 Reach me on:
 - <a href="https://www.linkedin.com/in/pubudu-mihiranga/">LinkedIn</a> 💼
