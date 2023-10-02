@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as an iOS Enginner (Intern) at Circles.Life, also majoring in a Bachelors's Degree in Software Engineering at University of Westminster.
+I'm currently working as an iOS Enginner at Circles.Life, also majoring in a Bachelors's Degree in Software Engineering at University of Westminster.
 
 Reach me on:
 - <a href="https://www.linkedin.com/in/pubudu-mihiranga/">LinkedIn</a> 💼
